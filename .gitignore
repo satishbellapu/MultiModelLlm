@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# macOS specific files
+.DS_Store
+
+# Python specific files
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg
+*.egg-info
+dist/
+build/
